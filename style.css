@@ -1,0 +1,78 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+span {
+    color: orange;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.flaxibal-container {
+    display: flex;
+    margin-bottom: 150px;
+
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 60%;
+    padding-top: 5%;
+
+}
+
+.button {
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 20px 50px;
+    border-radius: 25px;
+}
+
+.about-me {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.about-part {
+    padding-top: 10%;
+}
+
+.recipies {
+    text-align: center;
+}
+
+.recipies p {
+    text-align: center;
+}
+
+.recipie-title {
+    box-shadow: 10px 10px 20px gray;
+    margin: 50px;
+    border-radius: 20px;
+}
+
+.subscriction {
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 20px;
+    padding-left: 25%;
+    margin: 50px;
+}
+
+.youtube {
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
